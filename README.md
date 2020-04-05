@@ -11,8 +11,8 @@
 ## DockerSlim
 - https://dockersl.im/
 
-## Docker for Mac 
-- 
+## Docker for Mac (aliyun)
+- http://mirrors.aliyun.com/docker-toolbox/mac/docker-for-mac/
 
 ## 权限
 
